@@ -1,8 +1,8 @@
 # 👋***Hi, this is Ayushi Moitra.*** #
 
-- **College** - Netaji Subhash Engineering College, Garia, Kolkata
+Netaji Subhash Engineering College, Garia, Kolkata
 
-## Skills and Interests ✨ ##
+
 | Skills | Hobbies | Interests |
 |---|---|---|
 | Python | Art | Cybersecurity |
