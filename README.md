@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" width="900" height="200"></p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg2eno0dDFyNHBvNjRicTB0NjIzcjAxYm90bDZwb3BmbHhkbGNhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cpeeWPATjjNS7DCEOL/giphy.gif" width="900" height="200"></p>
 
 
 <h1 align="center">Hi 👋, I'm Ayushi Moitra</h1>
