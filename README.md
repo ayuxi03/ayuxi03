@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="2000" height="200"></p>
+
+
 <h1 align="center">Hi 👋, I'm Ayushi Moitra</h1>
 <h3 align="center">An aspiring web developer from India</h3>
 <p align="center">Netaji Subhash Engineering College, Garia, Kolkata</p>
