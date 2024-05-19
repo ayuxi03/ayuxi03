@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="2000" height="200"></p>
+  <img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" width="900" height="200"></p>
 
 
 <h1 align="center">Hi 👋, I'm Ayushi Moitra</h1>
