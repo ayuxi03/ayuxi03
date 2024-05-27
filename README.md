@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://d85gxhygowj8d.cloudfront.net/i7q8cn%2Fpreview%2F58195898%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1716803365&Signature=NIFUeqE0fhTL--izWcVwExcyAiKrSD8j3KyMWyFrmErXNQinHBrRfvkj8fdsI5LVo-ckipxke8Co0tF74oi2OK1x~wZwIY6zMco4b7vCqqyYOziEYRE3rAJJlBHzEpEu7Br2AstlURfikPUAcBtGSssdNH5EAXQp4rHg8ZqP9RK7xIcLu4U7kq~0NIgXvoe7rmyIzNlBS-PS1jSYH4gSjI86TKDpXSylNoY-LT2~afyPYoiw7QbAauuzuumoyVBHzroBhdsEc53P6j1XEL~hgH0SGf-wfNb30bb3fl8C2gbOTf0QxfR4bB90u3wtSLEq3LMDTO6OaeO8WSxW-Hcs0A__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="900" height="300"></p>
+  <img src="https://d3jqeznwt0i3tt.cloudfront.net/g26icn%2Fpreview%2F58196238%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1716804437&Signature=NcbvJpkCcGvvJAXgMxq83McEQuQLH2x1rQCB8ontBh5AbeHkFAjQpK81ce2yuSlpnhK1n3P~kaZXoaPLIwLTBMUyUkw3Wk1LCUNpYli2rKSH~GhmwEAiCPRE6lElartth93cghjMlqDxFI~zvE4qrPSBCCjLGK39lzglz6f6CAeNyoER2suVoYR1EnXsd7TD3wP~geutroTW2DTEcUjVhohL5l3mv8uUkId8xIaRfkEywBvu~PVWwQ4PjoAkz0NM4pt~95gtQKEgIDK7MjptJjAhqb2JH92kStF2jdxchODW4lGGPzpjedshoMOiy5sh863WX-UIOT-OWko-Ly~YDg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="900" height="300"></p>
 
 
 <h1 align="center">Hi 👋, I'm Ayushi Moitra</h1>
