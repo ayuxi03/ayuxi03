@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg2eno0dDFyNHBvNjRicTB0NjIzcjAxYm90bDZwb3BmbHhkbGNhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cpeeWPATjjNS7DCEOL/giphy.gif" width="900" height="200"></p>
+  <img src="https://d85gxhygowj8d.cloudfront.net/i7q8cn%2Fpreview%2F58195898%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1716803365&Signature=NIFUeqE0fhTL--izWcVwExcyAiKrSD8j3KyMWyFrmErXNQinHBrRfvkj8fdsI5LVo-ckipxke8Co0tF74oi2OK1x~wZwIY6zMco4b7vCqqyYOziEYRE3rAJJlBHzEpEu7Br2AstlURfikPUAcBtGSssdNH5EAXQp4rHg8ZqP9RK7xIcLu4U7kq~0NIgXvoe7rmyIzNlBS-PS1jSYH4gSjI86TKDpXSylNoY-LT2~afyPYoiw7QbAauuzuumoyVBHzroBhdsEc53P6j1XEL~hgH0SGf-wfNb30bb3fl8C2gbOTf0QxfR4bB90u3wtSLEq3LMDTO6OaeO8WSxW-Hcs0A__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="900" height="300"></p>
 
 
 <h1 align="center">Hi 👋, I'm Ayushi Moitra</h1>
