@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hnN3Y0YjR3dzUyYnJ5OXk4bHRuazhkc2FzbGRmM3A4cDlxOTgzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cpeeWPATjjNS7DCEOL/giphy.gif" width="840" height="200"></p>
+  <img src="https://gifdb.com/images/high/neon-circuit-hacker-screen-h2jx56k3cmdk2nl3.webp"></p>
 
 
 <h1 align="center">Hi 👋, I'm Ayushi Moitra</h1>
