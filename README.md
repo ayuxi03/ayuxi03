@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayushi Moitra</h1>
-<h3 align="center">An aspiring web developer from India</h3>
+<h3 align="center">An aspiring web developer</h3>
 <p align="center">Netaji Subhash Engineering College, Kolkata</p>
 
 
